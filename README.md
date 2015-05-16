@@ -12,6 +12,8 @@ David Feldman (Office Hours: 4-6:30 pm Tuesdays,Thursdays)
 
 ### Course Schedule (Tentative)
 
+Test modification
+
 Week | Tuesday | Thursday
 --- | --- | ---
  1 | 4/28: Introduction to Data Exploration  | 4/30: Introduction to Machine Learning
